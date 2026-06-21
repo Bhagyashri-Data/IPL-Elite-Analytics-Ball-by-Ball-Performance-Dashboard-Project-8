@@ -33,3 +33,5 @@ ETL Process: Raw IPL data was structuralized, missing data parameters handled, a
 Data Integrity: Ensured 100% data integrity before establishing the schema design in Power BI.
 
 UI/UX Optimization: Designed a modern custom dark theme with high-visibility orange accents for an executive-ready business presentation.
+<img width="1411" height="1142" alt="image" src="https://github.com/user-attachments/assets/d801907d-724d-4cb0-98d7-1469b78a248b" />
+
